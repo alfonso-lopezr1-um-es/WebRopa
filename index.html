@@ -2,17 +2,19 @@
 <html>
 
 <head>
-    <title>Alquiler de bicicletas</title>
+    <title>Compra ropa gitana</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
 <body>
     <header>
-        <h1>Alquiler de bicicletas</h1>
+        <h1>Compra ropa gitana</h1>
     </header>
     <nav>
         <ul>
-            <li><a href="#bicicletas">Bicicletas</a></li>
+            <li><a href="#ropa">Ropa</a></li>
+            <li><a href="#ofertas">Ofertas</a></li>
+            <li><a href="#topventas">Top Ventas</a></li>
             <li><a href="#ubicacion">Ubicación</a></li>
             <li><a href="#reservas">Reservas</a></li>
         </ul>
@@ -21,38 +23,64 @@
 
         <!-- Filtro por modelo -->
         <select id="filtro-modelo">
-            <option value="">Todos los modelos</option>
-            <option value="Bicicleta de montaña">Bicicleta de montaña</option>
-            <option value="Bicicleta de carretera">Bicicleta de carretera</option>
-            <option value="Bicicleta de paseo">Bicicleta de paseo</option>
+            <option value="">Todas los categorías</option>
+            <option value="Camisetas">Camisetas</option>
+            <option value="Pantalones">Pantalones</option>
+            <option value="Zapatos">Zapatos</option>
+            <option value="Chándal">Chándal</option>
+            <option value="Complementos">Complementos</option>
+            <option value="Calzoncillos">Calzoncillos</option>
         </select>
 
         <!-- Filtro por precio -->
         <select id="filtro-precio">
             <option value="0">Todos los precios</option>
-            <option value="5">Hasta $5</option>
-            <option value="10">Hasta $10</option>
             <option value="15">Hasta $15</option>
+            <option value="25">Hasta $25</option>
+            <option value="35">Hasta $35</option>
+            <option value="45">Hasta $45</option>
         </select>
 
-        <section id="bicicletas">
-            <h2>Bicicletas disponibles</h2>
-            <div id="bicicletas-contenedor"></div>
+        <!-- Filtro por marca -->
+        <select id="filtro-marca">
+            <option value="">Todas las marcas</option>
+            <option value="Adidas">Adidas</option>
+            <option value="Nike">Nike</option>
+            <option value="Trapstar">Trapstar</option>
+            <option value="Sexo">Sexo</option>
+        </select>
+
+        <section id="ropa">
+            <h2>Ropa disponible</h2>
+            <div id="ropa-contenedor"></div>
+        </section>
+
+        <section id="ofertas">
+            <h2>Ofertas</h2>
+            <p>HOLA</p>
+        </section>
+
+        <section id="topventas">
+            <h2>Top Ventas</h2>
+            <p>COMPRA</p>
+            <img src="img/pamies2.jfif">
         </section>
 
         <section id="ubicacion">
             <h2>Ubicación</h2>
-            <p>Nuestra tienda se encuentra en la calle 123, en la ciudad de XYZ.</p>
+            <p>No tenemos tienda física. Repartimos pedidos de manera presencial por la zona de Aljucer, El Palmar y
+                Murcia.</p>
         </section>
 
         <section id="reservas">
             <h2>Reservas</h2>
-            <p>Para hacer una reserva, por favor llámenos al 555-555-5555 o envíenos un correo electrónico a
-                info@bicyclerentals.com</p>
+            <p>Para hacer una reserva o cualquier duda, por favor envía un Whatsapp al 555-555-5555 o envíenos un correo
+                electrónico a
+                grepanolo@grepins.com</p>
         </section>
     </main>
     <footer>
-        <p>Copyright © 2021 Bicycle Rentals</p>
+        <p>Copyright © 2023 Ropajes Gitanos</p>
     </footer>
     <script src="main.js"></script>
 </body>

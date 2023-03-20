@@ -1,22 +1,24 @@
 {
     "bicicletas": [
         {
-            "nombre": "Rockrider",
-            "modelo": "Bicicleta de montaña",
-            "img": "img/1-bicicleta.png",
+            "nombre": "pamies",
+            "modelo": "Calzoncillos",
+            "desc": "gugusero",
+            "img": "img/pamies.jfif",
+            "marca": "Nike",
             "precio": 5
         },
         {
-            "nombre": "Specialized",
-            "modelo": "Bicicleta de carretera",
-            "img": "img/2-bicicleta.png",
+            "nombre": "Pamies 2",
+            "modelo": "Una replica de calidad",
+            "img": "img/pamies2.jfif",
             "precio": 7
         },
         {
-            "nombre": "Trek",
-            "modelo": "Bicicleta de paseo",
-            "img": "img/3-bicicleta.png",
-            "precio": 3
+            "nombre": "Acacio",
+            "modelo": "Pescador de copias",
+            "img": "img/acacio.jfif",
+            "precio": 10000
         },
         {
             "nombre": "Giant",
@@ -59,6 +61,12 @@
             "modelo": "Bicicleta de montaña",
             "img": "img/10-bicicleta.png",
             "precio": 5
+        },
+        {
+            "nombre": "Konaeeee",
+            "modelo": "Bicicleta de montaña",
+            "img": "img/10-bicicleta.png",
+            "precio": 30
         }
     ]
 }

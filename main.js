@@ -1,4 +1,4 @@
-const bicicletasContenedor = document.getElementById("bicicletas-contenedor");
+const bicicletasContenedor = document.getElementById("ropa-contenedor");
 
 // Obtener los datos de las bicicletas
 fetch("data.json")
@@ -13,11 +13,12 @@ fetch("data.json")
 
 // Función para mostrar las bicicletas en la página
 function mostrarBicicletas() {
-    const bicicletasContenedor = document.getElementById("bicicletas-contenedor");
+    const bicicletasContenedor = document.getElementById("ropa-contenedor");
     bicicletasContenedor.innerHTML = "";
 
     // Obtener los valores seleccionados en los filtros
     const filtroModelo = document.getElementById("filtro-modelo").value;
+    const filtroMarca = document.getElementById("filtro-marca").value;
     const filtroPrecio = parseFloat(document.getElementById("filtro-precio").value);
 
     console.log(filtroPrecio);
@@ -25,7 +26,7 @@ function mostrarBicicletas() {
     // Recorrer cada bicicleta
     window.bicicletas.forEach(function (bicicleta) {
         // Comprobar si la bicicleta cumple con los criterios de los filtros
-        if ((filtroModelo === "" || bicicleta.modelo === filtroModelo) && (filtroPrecio === 0 || bicicleta.precio <= filtroPrecio)
+        if ((filtroModelo === "" || bicicleta.modelo === filtroModelo) && (filtroPrecio === 0 || bicicleta.precio <= filtroPrecio)  && (filtroMarca === "" || bicicleta.marca === filtroMarca)
         ) {
             // Crear un elemento div para la bicicleta
             const bicicletaDiv = document.createElement("div");
@@ -60,3 +61,4 @@ function mostrarBicicletas() {
 // Agregar eventos a los filtros para que al cambiar su valor, se vuelva a mostrar las bicicletas
 document.getElementById("filtro-modelo").addEventListener("change", mostrarBicicletas);
 document.getElementById("filtro-precio").addEventListener("change", mostrarBicicletas);
+document.getElementById("filtro-marca").addEventListener("change", mostrarBicicletas);
