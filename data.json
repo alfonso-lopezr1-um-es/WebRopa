@@ -1,12 +1,76 @@
 {
     "bicicletas": [
         {
-            "nombre": "pamies",
-            "modelo": "Calzoncillos",
+            "nombre": "Air Max Plus TN GS ICE",
+            "modelo": "Zapatos",
             "desc": "gugusero",
-            "img": "img/pamies.jfif",
+            "img": "img/tn_ice.jpg",
             "marca": "Nike",
-            "precio": 5
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max Plus TN GS FIRE",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/tn_fire.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max Plus TN TRIPLE WHITE",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/tn_triplewhite.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Dunk Low Bordeaux",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/dunkLBurdeaux.jpg",
+            "marca": "Nike",
+            "precio": 75
+        },
+        {
+            "nombre": "Dunk Low Panda",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/dunkpanda.jpg",
+            "marca": "Nike",
+            "precio": 75
+        },
+        {
+            "nombre": "Dunk Low Purple Court",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/dunkpurple.jpeg",
+            "marca": "Nike",
+            "precio": 75
+        },
+        {
+            "nombre": "Dunk Low Green Glow",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/greenlow.jpg",
+            "marca": "Nike",
+            "precio": 75
+        },
+        {
+            "nombre": "Stussy X Air Max 'Fossil'",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/nikestussy.jpeg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Trapstar TShirt Model 1",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/trapstarcamiseta.jpeg",
+            "marca": "Trapstar",
+            "precio": 20
         },
         {
             "nombre": "Pamies 2",
