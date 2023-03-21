@@ -161,6 +161,14 @@
             "precio": 70
         },
         {
+            "nombre": "Air Max 90 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airmax90.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
             "nombre": "Air Max 95 (todos los modelos)",
             "modelo": "Zapatos",
             "desc": "gugusero",
@@ -193,10 +201,26 @@
             "precio": 70
         },
         {
+            "nombre": "Air Max 720 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airmax720.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
             "nombre": "Air Jordan 1 (todos los modelos)",
             "modelo": "Zapatos",
             "desc": "gugusero",
             "img": "img/airjordan1.jpg",
+            "marca": "Jordan",
+            "precio": 70
+        },
+        {
+            "nombre": "Travis Scott x Nike Air Jordan 1 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/fcddd90e.jpg",
             "marca": "Jordan",
             "precio": 70
         },
@@ -326,6 +350,14 @@
             "desc": "gugusero",
             "img": "img/offwhitedunklow.jpg",
             "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Adidas Yeezy boost 350 V2 (Todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/yeezy.jpeg",
+            "marca": "Adidas",
             "precio": 70
         },
         {

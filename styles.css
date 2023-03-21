@@ -14,6 +14,9 @@ header {
 nav {
   background-color: #FFA07A;
   text-align: center;
+  text-size-adjust: 200%;
+  height: 30px;
+  font-size: large;
 }
 
 nav ul {
@@ -102,11 +105,13 @@ footer {
   cursor: pointer;
 }
 
-
-
 .dropdown {
-  width: 250px;
+  width: 263px;
   /* Ajusta el ancho según tu necesidad */
   height: 45px;
   /* Ajusta la altura según tu necesidad */
+  font-size: 18px;
+}
+.dropdown option {
+  font-size: 18px;
 }
