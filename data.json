@@ -125,7 +125,7 @@
             "modelo": "Zapatos",
             "desc": "gugusero",
             "img": "img/nikestussy.jpeg",
-            "marca": "Nike",
+            "marca": "Stussy",
             "precio": 70
         },
         {
@@ -133,7 +133,7 @@
             "modelo": "Zapatos",
             "desc": "gugusero",
             "img": "img/Stussy2.jpeg",
-            "marca": "Nike",
+            "marca": "Stussy",
             "precio": 70
         },
         {
@@ -141,7 +141,7 @@
             "modelo": "Zapatos",
             "desc": "gugusero",
             "img": "img/nikestussyspiridoncaged.jpg",
-            "marca": "Nike",
+            "marca": "Stussy",
             "precio": 70
         },
         {
@@ -273,7 +273,7 @@
             "precio": 70
         },
         {
-            "nombre": "Nike Zoom Tempo Next (todos los modelos)",
+            "nombre": "Zoom Tempo Next (todos los modelos)",
             "modelo": "Zapatos",
             "desc": "gugusero",
             "img": "img/zommtemponext.jpg",
@@ -426,17 +426,17 @@
         },
         {
             "nombre": "Polos Gucci (preguntar catálogo)",
-            "modelo": "Camisetas",
+            "modelo": "Otros",
             "desc": "gugusero",
             "img": "img/pologucci.jpg",
-            "marca": "Trapstar",
+            "marca": "Gucci",
             "precio": 20
         },
         {
             "nombre": "Camisetas Trapstar (preguntar catálogo)",
             "modelo": "Camisetas",
             "desc": "gugusero",
-            "img": "img/trapstarcamiseta.jpeg",
+            "img": "img/camisetatrapstar.jpeg",
             "marca": "Trapstar",
             "precio": 20
         },
@@ -445,7 +445,7 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/camisetagucci.jpg",
-            "marca": "Trapstar",
+            "marca": "Gucci",
             "precio": 20
         },
         {
@@ -453,7 +453,7 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/camisetaadidasxbalenciaga.jpg",
-            "marca": "Trapstar",
+            "marca": "Adidas",
             "precio": 20
         },
         {
@@ -461,7 +461,7 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/camisetafendi.jpg",
-            "marca": "Trapstar",
+            "marca": "Fendi",
             "precio": 20
         },
         {
@@ -469,7 +469,7 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/camisetachanel.jpg",
-            "marca": "Trapstar",
+            "marca": "Chanel",
             "precio": 20
         },
         {
@@ -477,7 +477,7 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/camisetalv.jpg",
-            "marca": "Trapstar",
+            "marca": "LV",
             "precio": 20
         },
         {
@@ -485,7 +485,7 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/guccixadidas.jpg",
-            "marca": "Trapstar",
+            "marca": "Adidas",
             "precio": 20
         },
         {
@@ -493,7 +493,55 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/camisetabalenciaga.jpeg",
+            "marca": "Balenciaga",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Stussy (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetastussy.jpeg",
+            "marca": "Stussy",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Trapstar 2 (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/trapstarcamiseta.jpeg",
             "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Adidas (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetasadidas.jpeg",
+            "marca": "Adidas",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Nike (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetasnike.jpeg",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Dior (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetadior.jpeg",
+            "marca": "Dior",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Gallery Dept (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/gallerydeptcamiseta.jpeg",
+            "marca": "Gallery Dept",
             "precio": 20
         },
         {
@@ -501,8 +549,168 @@
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/messi.jfif",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas de Baloncesto",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetasbaloncesto.jpg",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Pantalones Nike (preguntar catálogo)",
+            "modelo": "Pantalones",
+            "desc": "gugusero",
+            "img": "img/pantalonesnike.jpeg",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Pantalones Trapstar (preguntar catálogo)",
+            "modelo": "Pantalones",
+            "desc": "gugusero",
+            "img": "img/pantalonestrapstar.jpeg",
             "marca": "Trapstar",
             "precio": 20
+        },
+        {
+            "nombre": "Pantalones Adidas (preguntar catálogo)",
+            "modelo": "Pantalones",
+            "desc": "gugusero",
+            "img": "img/pantalonesadidas.jpeg",
+            "marca": "Adidas",
+            "precio": 20
+        },
+        {
+            "nombre": "Pantalones de Baloncesto",
+            "modelo": "Pantalones",
+            "desc": "gugusero",
+            "img": "img/pantalonesbaloncesto.jpeg",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Pantalones Jordan",
+            "modelo": "Pantalones",
+            "desc": "gugusero",
+            "img": "img/pantalonesjordan.jpeg",
+            "marca": "Jordan",
+            "precio": 20
+        },
+        {
+            "nombre": "Pantalones New Yorker",
+            "modelo": "Pantalones",
+            "desc": "gugusero",
+            "img": "img/pantalonesny.jpg",
+            "marca": "NY",
+            "precio": 20
+        },
+        {
+            "nombre": "Bomber Nike",
+            "modelo": "Otros",
+            "desc": "gugusero",
+            "img": "img/bombernike.jpg",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Chaqueta Nike",
+            "modelo": "Otros",
+            "desc": "gugusero",
+            "img": "img/chaquetanike.jpg",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Sudaderas Trapstar (preguntar catálogo)",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/sudaderatrapstar.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Pantalones largos Trapstar (preguntar catálogo)",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/pantalonestrapstar2.jpeg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Chándal completo Trapstar",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/chandaltrapstar.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Sudaderas Nike",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/sudaderanike.jpeg",
+            "marca": "Nike",
+            "precio": 20
+        },
+        {
+            "nombre": "Chándal completo Adidas x Gucci (preguntar catálogo)",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/adidasguccichandal.jpg",
+            "marca": "Adidas",
+            "precio": 20
+        },
+        {
+            "nombre": "Chaqueta Adidas",
+            "modelo": "Otros",
+            "desc": "gugusero",
+            "img": "img/adidaschaquera.jpg",
+            "marca": "Adidas",
+            "precio": 20
+        },
+        {
+            "nombre": "Sudaderas Adidas (preguntar catálogo)",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/sudaderaadidas.jpeg",
+            "marca": "Adidas",
+            "precio": 20
+        },
+        {
+            "nombre": "Sudaderas Stussy (preguntar catálogo)",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/sudaderastussy2.jpeg",
+            "marca": "Stussy",
+            "precio": 20
+        },
+        {
+            "nombre": "Gorro Stussy",
+            "modelo": "Chándal",
+            "desc": "gugusero",
+            "img": "img/gorrostussy.jpeg",
+            "marca": "Stussy",
+            "precio": 20
+        },
+        {
+            "nombre": "Pantalones Rhude (preguntar catálogo)",
+            "modelo": "Pantalones",
+            "desc": "gugusero",
+            "img": "img/pantalonesrhude.jpeg",
+            "marca": "Rhude",
+            "precio": 20
+        },
+        {
+            "nombre": "Próximamente...",
+            "modelo": "Complementos",
+            "desc": "gugusero",
+            "img": "img/trapstarcomplement.jpg",
+            "marca": "Trapstar",
+            "precio": 0
         }
     ]
 }
