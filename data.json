@@ -137,6 +137,14 @@
             "precio": 70
         },
         {
+            "nombre": "Stussy x Nike Air Zoom Spiridon Caged 2'Fossil'",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/nikestussyspiridoncaged.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
             "nombre": "Supreme X Nike Shox Ride 2 (preguntar disponibilidad)",
             "modelo": "Zapatos",
             "desc": "gugusero",
@@ -173,6 +181,14 @@
             "modelo": "Zapatos",
             "desc": "gugusero",
             "img": "img/airmax97.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max 270 React (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airmax270react.jpg",
             "marca": "Nike",
             "precio": 70
         },
