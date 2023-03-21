@@ -21,16 +21,21 @@ function mostrarBicicletas() {
     const filtroMarca = document.getElementById("filtro-marca").value;
     const filtroPrecio = parseFloat(document.getElementById("filtro-precio").value);
 
-    console.log(filtroPrecio);
-
     // Recorrer cada bicicleta
     window.bicicletas.forEach(function (bicicleta) {
         // Comprobar si la bicicleta cumple con los criterios de los filtros
-        if ((filtroModelo === "" || bicicleta.modelo === filtroModelo) && (filtroPrecio === 0 || bicicleta.precio <= filtroPrecio)  && (filtroMarca === "" || bicicleta.marca === filtroMarca)
+        if ((filtroModelo === "" || bicicleta.modelo === filtroModelo) && (filtroPrecio === 0 || bicicleta.precio <= filtroPrecio) && (filtroMarca === "" || bicicleta.marca === filtroMarca)
         ) {
             // Crear un elemento div para la bicicleta
             const bicicletaDiv = document.createElement("div");
             bicicletaDiv.classList.add("bicicleta");
+
+            // Crear un enlace para la bicicleta
+            /*
+            const bicicletaEnlace = document.createElement("a");
+            bicicletaEnlace.href = `aaaa.html?id=${bicicleta.id}`;
+            bicicletaDiv.appendChild(bicicletaEnlace);*/
+
             // Crear una imagen para la bicicleta
             const bicicletaImg = document.createElement("img");
             bicicletaImg.src = bicicleta.img;
@@ -49,7 +54,7 @@ function mostrarBicicletas() {
 
             // Crear un p para el precio de la bicicleta
             const bicicletaPrice = document.createElement("p");
-            bicicletaPrice.innerHTML = bicicleta.precio+"€";            
+            bicicletaPrice.innerHTML = bicicleta.precio + "€";
             bicicletaDiv.appendChild(bicicletaPrice);
 
             // Agregar el elemento div a la página
@@ -62,3 +67,14 @@ function mostrarBicicletas() {
 document.getElementById("filtro-modelo").addEventListener("change", mostrarBicicletas);
 document.getElementById("filtro-precio").addEventListener("change", mostrarBicicletas);
 document.getElementById("filtro-marca").addEventListener("change", mostrarBicicletas);
+
+window.onload = function () {
+    var popup = document.querySelector('.popup');
+    var popupClose = document.querySelector('.popup-close');
+
+    popup.style.display = 'block';
+
+    popupClose.onclick = function () {
+        popup.style.display = 'none';
+    };
+};

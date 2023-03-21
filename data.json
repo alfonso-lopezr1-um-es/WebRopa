@@ -25,6 +25,46 @@
             "precio": 70
         },
         {
+            "nombre": "Air Max Plus TN White Navy Gold",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/tnwhiteblue.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max Plus TN Tiger",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/tntiger.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max Plus TN Dark",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/tndark.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max Plus TN Black & Red",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/tndarkred.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Force 1 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airforce2.jpeg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
             "nombre": "Dunk Low Bordeaux",
             "modelo": "Zapatos",
             "desc": "gugusero",
@@ -57,11 +97,275 @@
             "precio": 75
         },
         {
+            "nombre": "Dunk Low Vintage Green",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/vintagegreen.jpg",
+            "marca": "Nike",
+            "precio": 75
+        },
+        {
+            "nombre": "Dunk Low Blue Paisley",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/bluepaisley.jpeg",
+            "marca": "Nike",
+            "precio": 75
+        },
+        {
+            "nombre": "Dunk Low Blue Blueberry",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/blueberry.jpeg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
             "nombre": "Stussy X Air Max 'Fossil'",
             "modelo": "Zapatos",
             "desc": "gugusero",
             "img": "img/nikestussy.jpeg",
             "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Stussy X Air Max 'Black'",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/Stussy2.jpeg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Supreme X Nike Shox Ride 2 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/supremeshoxride2.jpg",
+            "marca": "Nike",
+            "precio": 75
+        },
+        {
+            "nombre": "Air Max Plus 3 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/nikeairmaxplus3.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max 95 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airmax95.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max 96 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airmax96.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Max 97 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airmax97.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Jordan 1 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airjordan1.jpg",
+            "marca": "Jordan",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Jordan 3 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airjordan3.jpeg",
+            "marca": "Jordan",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Jordan 4 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airjordan4.jpg",
+            "marca": "Jordan",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Jordan 11 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airjordan11.jpg",
+            "marca": "Jordan",
+            "precio": 70
+        },
+        {
+            "nombre": "Air Jordan 12 (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airjordan12.jpg",
+            "marca": "Jordan",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Cortez (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/cortez.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Vapor Max Plus TN (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/vapormaxplustn.jpeg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Zoom Tempo Next (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/zommtemponext.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike VaporMax EVO (todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/vapormaxevo.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Air Flight 89 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airflight89.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Air Force Shadow (Todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airforce1shadow.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Air Force Pixel (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airforce1pixel.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Air Vapor Max 2021 (Todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airvapormax2021.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Pegasus Vaporfly (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/pegasusvaporfly.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike VaporMax 360 (Todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/vapormax360.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Nike Air Max 360 Undefeated (Todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/airmax360undefeated.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Off-White X Dunk Low (Todos los modelos)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/offwhitedunklow.jpg",
+            "marca": "Nike",
+            "precio": 70
+        },
+        {
+            "nombre": "Adidas Ultra Boost 2021 Black",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/adidasultraboost2021.jpg",
+            "marca": "Adidas",
+            "precio": 70
+        },
+        {
+            "nombre": "New Balance 530 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/530.jpg",
+            "marca": "NB",
+            "precio": 70
+        },
+        {
+            "nombre": "New Balance 452 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/452.jpeg",
+            "marca": "NB",
+            "precio": 70
+        },
+        {
+            "nombre": "New Balance 608 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/608.jpeg",
+            "marca": "NB",
+            "precio": 70
+        },
+        {
+            "nombre": "New Balance 2002 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/2002.jpeg",
+            "marca": "NB",
+            "precio": 70
+        },
+        {
+            "nombre": "New Balance 992 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/992.jpeg",
+            "marca": "NB",
+            "precio": 70
+        },
+        {
+            "nombre": "New Balance 550 (preguntar disponibilidad)",
+            "modelo": "Zapatos",
+            "desc": "gugusero",
+            "img": "img/550.jpeg",
+            "marca": "NB",
             "precio": 70
         },
         {
@@ -71,66 +375,6 @@
             "img": "img/trapstarcamiseta.jpeg",
             "marca": "Trapstar",
             "precio": 20
-        },
-        {
-            "nombre": "Pamies 2",
-            "modelo": "Una replica de calidad",
-            "img": "img/pamies2.jfif",
-            "precio": 7
-        },
-        {
-            "nombre": "Acacio",
-            "modelo": "Pescador de copias",
-            "img": "img/acacio.jfif",
-            "precio": 10000
-        },
-        {
-            "nombre": "Giant",
-            "modelo": "Bicicleta de montaña",
-            "img": "img/4-bicicleta.png",
-            "precio": 5
-        },
-        {
-            "nombre": "Cannondale",
-            "modelo": "Bicicleta de carretera",
-            "img": "img/5-bicicleta.png",
-            "precio": 7
-        },
-        {
-            "nombre": "Scott",
-            "modelo": "Bicicleta de paseo",
-            "img": "img/6-bicicleta.png",
-            "precio": 3
-        },
-        {
-            "nombre": "Cube",
-            "modelo": "Bicicleta de montaña",
-            "img": "img/7-bicicleta.png",
-            "precio": 5
-        },
-        {
-            "nombre": "Bianchi",
-            "modelo": "Bicicleta de carretera",
-            "img": "img/8-bicicleta.png",
-            "precio": 7
-        },
-        {
-            "nombre": "Merida",
-            "modelo": "Bicicleta de paseo",
-            "img": "img/9-bicicleta.png",
-            "precio": 3
-        },
-        {
-            "nombre": "Kona",
-            "modelo": "Bicicleta de montaña",
-            "img": "img/10-bicicleta.png",
-            "precio": 5
-        },
-        {
-            "nombre": "Konaeeee",
-            "modelo": "Bicicleta de montaña",
-            "img": "img/10-bicicleta.png",
-            "precio": 30
         }
     ]
 }
