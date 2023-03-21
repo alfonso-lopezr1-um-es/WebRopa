@@ -417,10 +417,90 @@
             "precio": 70
         },
         {
-            "nombre": "Trapstar TShirt Model 1",
+            "nombre": "Polos variados (preguntar catálogo)",
+            "modelo": "Otros",
+            "desc": "gugusero",
+            "img": "img/pololv.jpg",
+            "marca": "LV",
+            "precio": 70
+        },
+        {
+            "nombre": "Polos Gucci (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/pologucci.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Trapstar (preguntar catálogo)",
             "modelo": "Camisetas",
             "desc": "gugusero",
             "img": "img/trapstarcamiseta.jpeg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Gucci (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetagucci.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Adidas X Balenciaga (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetaadidasxbalenciaga.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Fendi (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetafendi.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Chanel (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetachanel.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Louis Vuitton (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetalv.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Gucci X Adidas (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/guccixadidas.jpg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas Balenciaga (preguntar catálogo)",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/camisetabalenciaga.jpeg",
+            "marca": "Trapstar",
+            "precio": 20
+        },
+        {
+            "nombre": "Camisetas de Fútbol",
+            "modelo": "Camisetas",
+            "desc": "gugusero",
+            "img": "img/messi.jfif",
             "marca": "Trapstar",
             "precio": 20
         }
